@@ -30,7 +30,6 @@ public class Main {
 		campain1.setCampainId(1);
 		campain1.setCampainName("indirim");
 		campain1.setRateOfDiscount(50);
-		;
 		campain1.setThereCampain(true);
 
 		GamerManager gamerManager = new GamerManager(new MernisServiceAdapter());
